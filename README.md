@@ -1,5 +1,8 @@
 # run as
-Coppy Script, app.txt, APP vào cùng 1 folder:
-- script: file chạy để cài đặt APP dưới quyền admin
-- app.txt: file chứa tên APP (vd: hotfix_ABC.exe), hotfix cần cài đặt
-- APP: tên app cần cài.
+Place Script, app.txt, APP in same folder:
+- script: add admin credential to run an APP as admin user
+- app.txt: list name of APP (vd: hotfix_ABC.exe), hotfix
+- APP: the App u need to install .
+
+Open file runas.py
+- replace your owner admin user/pass
